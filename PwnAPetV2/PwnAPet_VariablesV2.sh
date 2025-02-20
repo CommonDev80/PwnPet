@@ -7,8 +7,8 @@ declare -i pet_age
 
 # Saved Variables
 pet_lvl="1"
-pet_experience="5"
+pet_experience="0"
 pet_age="0"
-owner_name="Jerry"
-pet_name="Timmy"
+owner_name=""
+pet_name=""
 Check_File="check"
